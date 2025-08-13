@@ -1,4 +1,4 @@
-# 🧪 Bioseal
+# 🧪 Bioseal System
 
 A smart fermentation monitoring system designed for the **Arduino Nano** platform.  
 It uses the **SCD40/41** sensor to measure **CO₂ concentration**, **temperature**, and **humidity**, displaying the results in real-time on an **SSD1306 OLED** via **U8g2** and **Adafruit SSD1306** libraries.
