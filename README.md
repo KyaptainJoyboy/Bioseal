@@ -73,10 +73,13 @@ The system is built to be compact, memory-efficient, and optimized for the Ardui
 
 ### 3. Connect the Hardware
 Wire **SCD40/41** and **SSD1306** to Arduino Nano’s **I²C pins**:
-- **SDA** → A4  
-- **SCL** → A5  
-- **VCC** → 5V  
-- **GND** → GND  
+
+| Pin  | Arduino Connection |
+|------|---------------------|
+| SDA  | A4                  |
+| SCL  | A5                  |
+| VCC  | 5V                  |
+
 
 ### 4. Upload the Code
 - Select **Arduino Nano** and the correct processor in **Tools**  
