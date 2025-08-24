@@ -79,6 +79,7 @@ Wire **SCD40/41** and **SSD1306** to Arduino Nano’s **I²C pins**:
 | SDA  | A4                  |
 | SCL  | A5                  |
 | VCC  | 5V                  |
+| GND  | GND                 | 
 
 
 ### 4. Upload the Code
